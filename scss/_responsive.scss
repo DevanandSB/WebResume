@@ -48,9 +48,6 @@
 		margin-top: 27px;
 		margin-bottom: 23px;
 	}
-	.header_area .navbar {
-		background: #000;
-	}
 	.navbar-toggler[aria-expanded="false"] span:nth-child(2) {
 		opacity: 1;
 	}
@@ -71,7 +68,7 @@
 		display: block;
 		width: 25px;
 		height: 3px;
-		background: #fff;
+		background: #000000;
 		margin: auto;
 		margin-bottom: 4px;
 		transition: all 400ms linear;
@@ -98,7 +95,7 @@
 		display: block;
 		border-bottom: 1px solid #ededed33;
 		border-radius: 0px;
-		color: #fff;
+		color: #000000;
 	}
 	.header_area .navbar .search {
 		margin-left: 0px;
